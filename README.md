@@ -12,7 +12,7 @@ Average Order Value
 
 ### Tools used
 
-Excel, Tableau, Powerpoint
+Excel, Tableau, Powerpoint(Background Image of Dashboard)
 
 ### Analysis Highlights
 
