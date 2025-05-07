@@ -25,7 +25,11 @@ The dashboard includes in-depth analysis of:
 
 ### Dashboard preview
 
-Screenshot of the dashboard is added.
+Screenshot of the dashboard is added here : "DB_Sales.JPG"
+
+### Tableau Dashboard
+
+The Dashboard can be found here : "https://public.tableau.com/app/profile/padmapriya.a5160/viz/amazon_sales_data2025/Amazon_Sales_Analysis"
 
 ### Key Insights
 
