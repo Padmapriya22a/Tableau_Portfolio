@@ -6,9 +6,9 @@ A simple interactive Tableau dashboard analyzing Amazon sales data to uncover in
 
 ### KPI
 
-Total Sales
-Total Quantity Sold
-Average Order Value
+- Total Sales
+- Total Quantity Sold
+- Average Order Value
 
 ### Tools used
 
